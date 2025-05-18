@@ -1,42 +1,41 @@
-# PythonProject
-
-project/
-├── app.py               # Main Flask application
-├── models.py            # SQLAlchemy database models
-├── forms.py             # WTForms classes for input validation
-├── templates/           # HTML templates (Jinja2)
-│   ├── layout.html
-│   ├── login.html
-│   ├── dashboard.html
-│   ├── group.html
-├── static/
-│   ├── style.css        # Custom styles
-│   ├── script.js        # Frontend JS for alerts and charts
-├── helpers.py           # Utility functions
-├── requirements.txt     # Required Python packages
-├── README.md            # Project documentation
-└── database.db          # SQLite database (local)
-````
 
 ---
 
-## Design Choices
+## 💡 Design Choices
 
-* **SQLite** was chosen for its simplicity during development. It can be replaced with PostgreSQL or MySQL for deployment.
-* **Chart.js** was selected for rendering clean and interactive graphs on the frontend.
-* **Bootstrap** allows quick creation of a mobile-friendly UI.
-* We used **Flask's session management and Flask-Login** to manage user sessions securely.
+- **SQLite** is used for ease of development and can be replaced with PostgreSQL or MySQL for production.
+- **Chart.js** enables clean and interactive data visualization on the frontend.
+- **Bootstrap** helps build a responsive, mobile-friendly user interface quickly.
+- **Flask-Login & Flask sessions** are used to manage user authentication and session security.
+
+---
+
+## 🚀 Features
+
+- User authentication (login/logout)
+- Dashboard with progress graphs
+- Group study collaboration features
+- Simple and responsive user interface
+- Custom styling and charts via CSS and JavaScript
 
 ---
 
-## Future Improvements
+## 🔮 Future Improvements
 
-* Mobile app version (React Native or Flutter)
-* Email reminders for deadlines
-* Gamification (badges for task completion streaks)
-* Study session timer (Pomodoro method)
+- Mobile app version using **React Native** or **Flutter**
+- Email reminders for upcoming deadlines
+- Gamification: badges for task completion streaks
+- Study session timer with **Pomodoro method**
 
 ---
+
+## 📦 Dependencies
+
+Install dependencies using pip:
+
+```bash
+pip install -r requirements.txt
+
 
 ## Citation
 
