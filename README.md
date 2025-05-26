@@ -6,7 +6,6 @@
 ## 🎥 Video Demo
 
 👉 [Watch the Demo Video](https://youtu.be/JEhm47ZTSU4)  
-*(Replace `YOUR_VIDEO_ID` with your actual YouTube video ID)*
 
 ---
 
