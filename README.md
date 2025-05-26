@@ -1,6 +1,7 @@
 # 📁 CS50 Final Project – Portfolio Website by Muthuswamy Nadar
 
-![Project Banner](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![Website Screenshot](websites.png)
+
 
 ## 🎥 Video Demo
 
