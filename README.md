@@ -1,79 +1,120 @@
-# 🌐 Personal Portfolio Website
+# 📁 CS50 Final Project – Portfolio Website by Muthuswamy Nadar
 
-Welcome to my personal portfolio website! This site showcases my projects, skills, certifications, and experiences as an aspiring Data Scientist & Analyst.
+![Project Banner](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
-## 🔗 Live Website
+## 🎥 Video Demo
 
-Visit the live site here: [https://muthuswamynadar.github.io/](https://muthuswamynadar.github.io/)
+👉 [Watch the Demo Video](https://youtu.be/JEhm47ZTSU4)  
+*(Replace `YOUR_VIDEO_ID` with your actual YouTube video ID)*
 
+---
 
-## 👨‍💻 About Me
+## 🧾 Description
 
-I'm **Muthuswamy Nadar**, an aspiring **Data Scientist & Analyst** with a passion for solving real-world problems using data. I specialize in:
+This project is submitted as part of **CS50 – Introduction to Computer Science**, offered by Harvard University.  
+I’m **Muthuswamy Nadar**, a B.Sc-IT graduate and aspiring Data Scientist from Mumbai, India.
 
-- Python, SQL, Power BI
-- Data Visualization & Dashboarding
-- Machine Learning & Statistical Analysis
-- Data Cleaning & Preprocessing
+For my final project, I created a fully responsive **personal portfolio website** using **HTML, CSS, and JavaScript**.  
+This site serves as a professional and interactive representation of my skills, background, and projects.
 
-## 📁 Features
+The design is minimalistic, clean, and smooth — focusing on **functionality, responsiveness, and user experience**. Visitors can seamlessly explore sections such as **About Me, Skills, Projects, and Contact**, making the site ideal for showcasing my resume and work in a digital format.
 
-- 🧑‍💼 About Section  
-- 💼 Projects Showcase  
-- 📜 Resume Download  
-- 📬 Contact Form  
-- 📱 Responsive Design  
-- 🌙 Light/Dark Theme Toggle (if applicable)
+---
 
-## 🛠️ Tech Stack
+## 🌐 Website Features
 
-- HTML5
-- CSS3 (with animations & responsiveness)
-- JavaScript
-- GitHub Pages for Deployment
+- ✅ Fully responsive layout – mobile, tablet, desktop support
+- 🎯 Clean and minimal UI/UX design
+- 🔄 Smooth section navigation with working buttons
+- 🎞️ Scroll-based and section-based animations
+- 🧠 Organized structure with reusable components
+- 💬 Functional contact form layout (for frontend demonstration)
 
-## 📸 Preview
+---
 
-![Website Screenshot](websites.png)
+## 📂 Project Structure & File Overview
 
->
+/portfolio-website
+│
+├── index.html # Main landing page with all content
+├── style.css # Stylesheet controlling layout, fonts, colors, animations
+├── script.js # JavaScript file for interactivity (scroll effects, buttons)
+│
+├── /assets
+│ ├── profile.jpg # Profile picture
+│ ├── background.png # Background image or pattern
+│
+├── /media
+│ └── demo.mp4 # Optional local video demo file
+│
+└── README.md # Project overview & documentation (this file)
 
-## 🚀 Getting Started
+---
 
-1. Fork or clone the repository
-2. Make changes locally
-3. Push to your GitHub repository
-4. Enable GitHub Pages from the settings
+## 🛠️ Technologies Used
 
-```bash
-git clone https://github.com/muthuswamynadar/muthuswamynadar.github.io
+- **HTML5** – Structure and semantic content
+- **CSS3** – Styling, layout, responsiveness, media queries
+- **JavaScript (Vanilla)** – Interactivity and DOM manipulation
+- **VS Code** – Development environment
+- **GitHub Pages** – Deployment platform
+
+---
+
+## 🎨 Design Choices
+
+1. **Minimal Aesthetic**:  
+   Chose a clean, professional design to reflect a data-oriented mindset with a user-first focus.
+
+2. **Smooth Animations**:  
+   Included animations for scrolling and loading using CSS transitions to enhance user engagement without affecting performance.
+
+3. **Responsive Design**:  
+   Applied flexbox and media queries to ensure the site looks great on phones, tablets, and desktops.
+
+4. **Color Palette**:  
+   Neutral tones with a pop of primary color (blue/yellow) to maintain readability and modern feel.
+
+5. **Font Selection**:  
+   Used web-safe fonts for compatibility and legibility across devices.
+
+6. **Accessible Navigation**:  
+   Clearly labeled sections and functional buttons ensure a positive experience for all users.
+
+---
+
+## 👨‍💼 About Me
+
+Hi! I'm **Muthuswamy Nadar**, a passionate and aspiring **Data Scientist & Analyst**.  
+My technical skills include:
+
+- Python, SQL, Power BI, SAS  
+- Excel, Pandas, Numpy, Matplotlib  
+- Data cleaning, visualization, and analytics  
+- Basic web development for project presentation and deployment
+
+I created this website to represent myself digitally and to practice frontend fundamentals learned during the CS50 course.
+
+---
+
+## 🔗 Connect With Me
+
+- 🌐 [Portfolio Website](https://muthuswamynadar.github.io/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/nadarmuthuswamy/)
+- 📧 Email: [muthuswamynada25r@example.com](mailto:muthuswamynadar25@example.com)
+
+---
+
+## 📌 Tags
+
+#CS50FinalProject #PortfolioWebsite #DataScientist #HTML #CSS #JavaScript #ResponsiveDesign #CS50x #MuthuswamyNadar #WebDevelopment
 
 
 ---
 
-### 📄 LICENSE (MIT)
+## ✅ License
 
-Create a file named `LICENSE` in the root directory of your repository and add the following:
+This project is licensed under the [MIT License](LICENSE).
 
-```text
-MIT License
+---
 
-Copyright (c) 2025 Muthuswamy Nadar
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
