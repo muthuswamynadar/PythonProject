@@ -32,24 +32,7 @@ The design is minimalistic, clean, and smooth — focusing on **functionality, r
 
 ---
 
-## 📂 Project Structure & File Overview
 
-/portfolio-website
-│
-├── index.html # Main landing page with all content
-├── style.css # Stylesheet controlling layout, fonts, colors, animations
-├── script.js # JavaScript file for interactivity (scroll effects, buttons)
-│
-├── /assets
-│ ├── profile.jpg # Profile picture
-│ ├── background.png # Background image or pattern
-│
-├── /media
-│ └── demo.mp4 # Optional local video demo file
-│
-└── README.md # Project overview & documentation (this file)
-
----
 
 ## 🛠️ Technologies Used
 
@@ -99,7 +82,6 @@ I created this website to represent myself digitally and to practice frontend fu
 
 ## 🔗 Connect With Me
 
-- 🌐 [Portfolio Website](https://muthuswamynadar.github.io/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/nadarmuthuswamy/)
 - 📧 Email: [muthuswamynada25r@example.com](mailto:muthuswamynadar25@example.com)
 
@@ -110,11 +92,4 @@ I created this website to represent myself digitally and to practice frontend fu
 #CS50FinalProject #PortfolioWebsite #DataScientist #HTML #CSS #JavaScript #ResponsiveDesign #CS50x #MuthuswamyNadar #WebDevelopment
 
 
----
-
-## ✅ License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
 
