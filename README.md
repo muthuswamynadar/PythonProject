@@ -3,9 +3,6 @@
 ![Website Screenshot](websites.png)
 
 
-## 🎥 Video Demo
-
-👉 [Watch the Demo Video](https://youtu.be/JEhm47ZTSU4)  
 
 ---
 
