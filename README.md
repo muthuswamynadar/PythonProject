@@ -80,7 +80,7 @@ I created this website to represent myself digitally and to practice frontend fu
 ## 🔗 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/nadarmuthuswamy/)
-- 📧 Email: [muthuswamynada25@example.com](mailto:muthuswamynadar25@example.com)
+- 📧 Email: [muthuswamynadar25@example.com](mailto:muthuswamynadar25@example.com)
 
 ---
 
